@@ -1,0 +1,19 @@
+{
+  "name": "datatables-rowsgroup",
+  "version": "1.0.0",
+  "description": "The Datatables feature plugin that groups rows (merge cells vertically) in according to specified columns. It's inspired by [fnFakeRowspan] (https://datatables.net/plug-ins/api/fnFakeRowspan) DataTables plugin.",
+  "main": "dataTables.rowsGroup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASOdesk/datatables-rowsgroup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASOdesk/datatables-rowsgroup/issues"
+  },
+  "homepage": "https://github.com/ASOdesk/datatables-rowsgroup#readme"
+}
